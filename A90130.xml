@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old Parliament, with some passages thereof: as it was long since ordered, in the reigne of Alexander Severus, then Emperour of Rome: and of the proceedings therein, against Vetronius Turinus, a great favourite of the said emperour. Taken out of the Greeke records, and subscribed by the chiefe secretary, Eucolpius Cler. Alex. Imp. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90130</idno><idno type="EEBO-CITATION">99868738</idno>
+  <idno type="VID">159498</idno>
+  <idno type="EEBO-PROQUEST">2248504790</idno>
+  
+            <idno type="STC">Wing O213</idno>
+            <idno type="STC">Thomason E274_22</idno>
+            <idno type="STC">ESTC R209887</idno>
+            <idno type="PROQUEST">99868738</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868738e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159498)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old Parliament, with some passages thereof: as it was long since ordered, in the reigne of Alexander Severus, then Emperour of Rome: and of the proceedings therein, against Vetronius Turinus, a great favourite of the said emperour. Taken out of the Greeke records, and subscribed by the chiefe secretary, Eucolpius Cler. Alex. Imp. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Austin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 24th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159498:1"/>
+            <p>The old Parliament, <hi>WJTH</hi> Some Passages thereof: As it was long since ordered, in the Reigne of ALEXANDER SEVERUS, then Emperour of Rome: AND Of the Proceedings therein, against VETRO<g ref="char:EOLhyphen"/>NIUS TURINUS, a great Favourite of the said Emperour.</p>
+            <p>
+               <hi>Taken out of the Greeke Records, and sub<g ref="char:EOLhyphen"/>scribed by the chiefe Secretary,</hi>
+            </p>
+            <p>Eucolpius Cler. Alex. Imp.</p>
+            <p>
+               <hi>Published according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Austin.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159498:2"/>
+            <pb n="1" facs="tcp:159498:2"/>
+            <head>The Old Parliament.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lexander Severus</hi> Emperour of Rome, in his time elected out of all parts of his Empire, a convenient company of wise, and persons well reputed, to be his Councellours, consisting of Lawyers, Souldiers, and other expert and eloquent men.</p>
+            <list>
+               <head>Here followeth the names of some of them, according to the Greeke Records.</head>
+               <item>
+                  <hi>Gordian</hi> the Consull.</item>
+               <item>
+                  <hi>Ulptan</hi> the Chancellour.</item>
+               <item>
+                  <hi>Frontinus</hi> Keeper of the monu<g ref="char:EOLhyphen"/>ments.</item>
+               <item>
+                  <hi>Fabius Sabinus,</hi>
+               </item>
+               <item>
+                  <hi>Catilius Severus,</hi>
+               </item>
+               <item>Censors for the Citie.</item>
+               <item>
+                  <hi>Quintilius Marcellus,</hi>
+               </item>
+               <item>
+                  <hi>Ca us Manlius,</hi>
+               </item>
+               <item>Censors for the Provinces.</item>
+               <item>
+                  <hi>Fabius Gab nus.</hi>
+               </item>
+               <item>
+                  <hi>Claudius Venatus.</hi>
+               </item>
+               <item>
+                  <hi>Seremanus.</hi>
+               </item>
+               <item>
+                  <hi>Caius Marcellus.</hi>
+               </item>
+               <item>
+                  <hi>Cato.</hi>
+               </item>
+               <item>
+                  <hi>Septimius Arabi.</hi>
+               </item>
+               <item>
+                  <hi>Vetronius Turinus.</hi>
+               </item>
+               <item>
+                  <hi>Aurelius Philippus.</hi>
+               </item>
+               <item>
+                  <hi>Marcus Gemiuus.</hi>
+               </item>
+               <item>
+                  <hi>Moderatus.</hi>
+               </item>
+               <item>
+                  <hi>Oninius.</hi>
+               </item>
+               <item>
+                  <hi>Paulus.</hi>
+               </item>
+               <item>
+                  <hi>Triphonius.</hi>
+               </item>
+               <item>
+                  <hi>Duillus.</hi>
+               </item>
+               <item>
+                  <hi>Cotta.</hi>
+               </item>
+               <item>
+                  <hi>Eucolpius</hi> Secretarie.</item>
+            </list>
+            <p>Of the sentences of the Lawyers amongst these, and the rest of the Senatours, is made the Text of the Law Civill, gathered in the books named <hi>The Digests.</hi>
+            </p>
+            <p>The manner of the sitting of these Senatours, and their office was thus:</p>
+            <p n="1">1. All matters and causes of great importance were brought in order before these Senatours, and by them examined; and the re<g ref="char:EOLhyphen"/>port
+<pb n="2" facs="tcp:159498:3"/>thereof by them made unto the Emperour.</p>
+            <p n="2">2. No decree or ordinance was made, but first debated on by 10 Lawyers, substantially learned, and 50 other expert and eloquent men, which was done after this manner: Everie mans opinion and sentence was thorowly and quietly heard without interruption, which was taken by the Clerks, eight being assigned for that pur<g ref="char:EOLhyphen"/>pose; and a competent time was given to everie Councellour to stu<g ref="char:EOLhyphen"/>dy and consider, so as that he might speak with judgment.</p>
+            <p n="3">3. When Law and matters politike were treated on, those that were learned men and eloquent, spake and debated theron.</p>
+            <p n="4">4. When matters of war were treated on, that was debated on by Captains, and old experienced Souldiers; as also them that were expert in the situation of places, and pitching of fields, and prepa<g ref="char:EOLhyphen"/>ring of camps.</p>
+            <p n="5">5. When matters pertaining to the Emperour was treated on, it was debated by such as were well read in histories, and that had ex<g ref="char:EOLhyphen"/>perience in the affaires of Emperours and Princes; and what they had done (as well Romans as other Nations) in semblable causes.</p>
+            <p n="6">6. All debates being taken by the eight clerks; perfect coppies thereof were forthwith written out, and delivered to the Emperour, which he read privately, comparing their judgements together; and afterwards in convenient time delivered his owne judgement, before all his councellours; and any man amongst them had free libertie to declare themselves in their judgement, though against the Empe<g ref="char:EOLhyphen"/>rours opinion: and what was carried on by the major part, that hee made a Law.</p>
+            <p n="7">7. By the consent of the Senate, and not else (of whom the com<g ref="char:EOLhyphen"/>moners were apartie) he chose the former Censors, two for the citie, and the other two for the Provinces. And thus also were new Se<g ref="char:EOLhyphen"/>natours chosen, when places were vacant; as also the Judges, and other chiefe Officers, which had jurisdiction and authoritie to give any sentence.</p>
+            <p n="8">8. If a Knight, a Judge, or a Senatour, was found to staine the
+<pb n="3" facs="tcp:159498:3"/>estimation of the degree, it was in their authoritie to degrade such of their office, or dignitie.</p>
+            <p n="9">9. All such were discharged out of the Senate, which were gi<g ref="char:EOLhyphen"/>ven to lying and flatterie.</p>
+            <p n="10">10. They purged the order of Knight-hood, degrading all Knights which were shamelesse, Iecherous, maintainers of theeves, or they themselves Robbers. And the like was used in reforming Judges, and other Head-Officers, both in the citie, and about in the provinces.</p>
+            <p n="11">11. All estates were liable to their correction: The Emperours palace not exempted from their jurisdiction.</p>
+            <p n="12">12. The Emperour loved all that was vertue, and hated all that was vice, in what person soever he saw it.</p>
+            <p n="13">13. In his owne respect, whatsoever profit might redound to him by tollerating of any notable vice, he would rather lack profit, than give way to vice.</p>
+            <p n="14">14. In them that were Concellours, hee utterly abhorred ambi<g ref="char:EOLhyphen"/>tion, and slattering Judges; hee hated (with extreame detestation) covetousnesse and wrath. In both the one and the other hee loved sinceritie.</p>
+            <p n="15">15. Hee gave free leave to any of his Councellours that offen<g ref="char:EOLhyphen"/>ded, to come to a legall triall, though never so great a favourite; as particularly <hi>Vetronius Turinus,</hi> a great favourite of the Emperours, one who got into the Emperours favour by a familiar and secret dis<g ref="char:EOLhyphen"/>course; by which meanes <hi>Turinus</hi> tooke many bribes from divers people, to do them some friendship to the Emperour: and by this meanes he gathered much treasure to himselfe, but did nothing for those he undertook for.</p>
+            <p>But at the last, many to whom hee had promised such things as they sued for, notwithstanding they received nothing in conclusion, but nods with the head: by which meanes they found themselves deceived, and their great sums of money vainly employed, wherat they murmured; and partly moved with disdaine, and partly with
+<pb n="4" facs="tcp:159498:4"/>povertie, they brake forth at last into publike exclamations: in so much that it came to the Emperours care: whereat the Emperour was moved with great displeasure, that <hi>Turinus</hi> whom hee had in so great estimation, should sell his determinations and sentences to de<g ref="char:EOLhyphen"/>fame the Emperour, as if hee did nothing, but at his beck and com<g ref="char:EOLhyphen"/>mandement, and thereby abused his Subjects.</p>
+            <p>Wherefore the Emperour permitted <hi>Turinus</hi> to be forthwith ar<g ref="char:EOLhyphen"/>rested, and openly in his presence to be accused, many witnesses coming against him.</p>
+            <p>
+               <hi>Turin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> being called to the bar before the Senatours, there came many sufficient and credible witnesses against him, who attested that in their presence hee had received such briberie: the witnesses were many, and the proofes full against him.</p>
+            <p>The Emperour gave convenient time to the Senate to deliberate by themselves, before they gave sentence what punishment should be equall to the offence of <hi>Turinus,</hi> and necessarie for an example to others in the like nature: and everie man delivered his opinion.</p>
+            <p>Some delivered their opinion, that open rebuke with sufficient satisfaction unto the parties wronged, should be a convenient pu<g ref="char:EOLhyphen"/>nishment. Others added thereto imprisonment for a certaine time. Divers would that he should be banisht far from the Court. Many affirmed with vehement arguments, that he deserved to be beheaded, considering that in abusing the Emperours Majestie, in selling great offices to persons unworthy, and the like, (as was proved against him) he had put the publike weale into no little hazard.</p>
+            <p>The Emperour advisedly hearing all their opinions, in the last place (as it was his custome) delivered his judgement in this manner.</p>
+            <p>
+               <hi>My trustie and well-beloved Councellours:</hi>
+            </p>
+            <p>Wee have hitherto attentively heard, and thorowly considered your wise and honourable sentences, declared with free and uncor<g ref="char:EOLhyphen"/>rupted minds; although by the diversitie of your naturall incli<g ref="char:EOLhyphen"/>nations, your sundry reasons seeme to have no little diversitie, as it happeneth in all consultations, where divers men doe declare
+<pb n="5" facs="tcp:159498:4"/>their opinions freely, as I doubt not but you doe.</p>
+            <p>Notwithstanding for as much as hearing all your opinions, and reasons, I am the better instructed to find out and declare (except I be deceived) what should be the most expedient and necessary pun<g ref="char:EOLhyphen"/>ishment of <hi>Turinus,</hi> for the offences which he hath committed, wher<g ref="char:EOLhyphen"/>in ought to be no lesse severity (as may be proved by good reason) then if he had attempted to have slaine me, or burne this most noble City.</p>
+            <div type="part">
+               <head>And so the Emperour inlarged himselfe in many particulars.</head>
+               <p>Wherefore he was then judged to be led away unto the open market-place, where the most resort of people use to be: and there to be bound to a stake, with smoake made of green stickes, and wet stubble, and to be smothered to death. And during the time of his execution, a beadle shall cry, <hi>with fume shall he dy that fume hath sold.</hi>
+               </p>
+               <p n="15">15. When any had executed any good office for the publike good of the Land, then would the Emperour himselfe, not in his owne name, but in the name of the whole Empire say, the publike weale give to you right hearty thanks.</p>
+               <p n="16">16. Chiefe Judges, Proconsulls, Lievtenants, and the like, were never placed but by deliberate judgement of the Senate.</p>
+               <p n="17">17. There was no man in dignity or office, either by the assigne<g ref="char:EOLhyphen"/>ment of the Senate, or in under offices, put in by his own Commis<g ref="char:EOLhyphen"/>sion, but the Emperour knew his person, and forme of being. And when he was solicited to promote any person, he would search out his name in his book of remembrance.</p>
+               <p n="18">18. <hi>By the consent of the Senate the Commons sitting with his Coun<g ref="char:EOLhyphen"/>sellours the Emperour agreed to these Lawes following.</hi>
+               </p>
+               <p n="1">1. Ordered that threescore Conservators be chosen for the good of the publike weale, to see that the children of this Nation be well brought up, and instructed, according to the capacity of their wits, from the age of seven yeares unto sixteen, and that in their playes and recreations there be no dishonest thing: And that such as are the sons of Gentlemen, be exercised in reading. And they and the
+<pb n="6" facs="tcp:159498:5"/>rest in swimming, running, wrastling, to occupy all weapons of war. And also that maids during the same age be brought up in shame<g ref="char:EOLhyphen"/>fastnesse, humblenesse, and occupation, necessary for a house-wife. And that they be not seene out of their fathers house, but in the companie of their mothers, or such other that are in their places.</p>
+               <p n="2">2. Ordered that the said Conservators, have power to controll every housholder of what estate or degree soever, if any excesse be found in their fare, or where riotous persons be: or that moe servants then roomes are in his or their house, and that for necessary businesse may be imployed.</p>
+               <p n="3">3 Ordered that they see that no victualling, or brothell house have their doores open to receive any person, either before the sun rising or after sun set, that every man may be knowne, that repaires to such places.</p>
+               <closer>
+                  <signed>
+                     <hi>E<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>celpius Cleric. Alex. Imp.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
